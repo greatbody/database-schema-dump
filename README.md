@@ -52,3 +52,6 @@ This will write `migration_script.sql` in the current subfolder.
 ## Limitations
 - Does not include tables, data, roles, permissions, or indexes (beyond PK definitions within table types when present).
 - Complex dependency sorting among modules is minimal; the provided order generally works but may require manual tweaks in rare cases.
+---
+**Keywords:** database schema dump, SQL migration script, Azure SQL schema export, SQL Server schema generator, database structure export, cross-database migration, open source SQL tools, schema extraction Python, database object scripting, SQL schema automation
+---
