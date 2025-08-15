@@ -1,3 +1,4 @@
+# [🇨🇳 中文版 README](README_CN.md)
 # database-schema-dump
 
 Generates a single, re-runnable SQL script (`migration_script.sql`) that safely creates user-defined schemas, types, sequences, synonyms, and programmable objects (views, procedures, functions, triggers) from a supported database (SQL Server, Azure SQL, etc.).
