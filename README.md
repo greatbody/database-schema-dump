@@ -1,13 +1,11 @@
 # database-schema-dump
 
-**Note:** This tool is more stable than `mssql-scripter`.
-
 Generates a single, re-runnable SQL script (`migration_script.sql`) that safely creates user-defined schemas, types, sequences, synonyms, and programmable objects (views, procedures, functions, triggers) from a SQL Server or Azure SQL database.
 
 
 ## Supported Databases
 
-- **Currently Supported:** Azure SQL Server
+- **Currently Supported:** Azure SQL Server (**Note:** This tool is more stable than `mssql-scripter`.)
 - **Planned Support:** All major SQL databases (MySQL, PostgreSQL, Oracle, SQLite, etc.)
 
 ## TODO
